@@ -1,0 +1,35 @@
+generator client {
+  provider      = "prisma-client-js"
+  output        = "../app/generated/prisma"
+  binaryTargets = ["native", "rhel-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Course {
+  id          String  @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  name        String
+  description String?
+  category    String?
+  data        String?
+
+  @@map("courses")
+}
+
+model AccData {
+  uid  String @id
+  data Json
+}
+
+model StudyNote {
+  id           String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  userId       String
+  originalText String
+  summaryText  String?
+  createdAt    DateTime @default(now())
+
+  @@map("study_notes")
+}

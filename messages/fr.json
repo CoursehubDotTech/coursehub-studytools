@@ -1,0 +1,46 @@
+{
+  "Common": {
+    "goodMorning": "Bonjour",
+    "goodAfternoon": "Bon après-midi",
+    "goodEvening": "Bonsoir",
+    "signedOut": "Vous êtes actuellement déconnecté.",
+    "allRightsReserved": "Tous droits réservés.",
+    "loading": "Chargement en cours...",
+    "errorOccurred": "Une erreur s'est produite lors du chargement"
+  },
+  "Home": {
+    "title": "Bienvenue sur CourseHub StudyTools!",
+    "subtitle1": "Étudiez plus intelligemment avec CourseHub StudyTools.",
+    "subtitle2": "Cartes mémoire, notes et IA — tout au même endroit.",
+    "getStarted": "Commencer"
+  },
+  "Courses": {
+    "title": "CourseHub StudyTools",
+    "loginRequired": "Veuillez vous connecter pour voir les cours.",
+    "loadFailed": "Échec du chargement des cours",
+    "empty": "Vous n'avez pas encore de matériel d'étude. Commencez maintenant!",
+    "viewResource": "Voir la ressource",
+    "backHome": "← Retour à l'accueil"
+  },
+  "Course": {
+    "notFound": "Ressource CourseHub StudyTools introuvable",
+    "loginRequired": "Veuillez vous connecter pour voir cette ressource",
+    "loadFailed": "Échec du chargement de la ressource",
+    "loading": "Chargement de votre ressource...",
+    "materialNotFound": "Matériel introuvable",
+    "backSearch": "Retour à StudyTools",
+    "backSearchArrow": "← Retour à StudyTools",
+    "noContent": "Aucun contenu disponible pour cette ressource."
+  },
+  "Assistant": {
+    "title": "CourseHub StudyTools Assistant IA",
+    "description": "Collez vos notes ci-dessous, et notre IA générera un résumé concis et l'enregistrera sur votre profil.",
+    "placeholder": "Collez vos notes d'étude ici...",
+    "summarizing": "Résumé en cours...",
+    "summarizeBtn": "Résumer les notes",
+    "aiSummary": "Résumé IA",
+    "sessionHistory": "Historique de session",
+    "hideHistory": "Masquer l'historique",
+    "showHistory": "Afficher l'historique"
+  }
+}

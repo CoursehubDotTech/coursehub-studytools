@@ -1,0 +1,46 @@
+{
+  "Common": {
+    "goodMorning": "Guten Morgen",
+    "goodAfternoon": "Guten Tag",
+    "goodEvening": "Guten Abend",
+    "signedOut": "Sie sind derzeit abgemeldet.",
+    "allRightsReserved": "Alle Rechte vorbehalten.",
+    "loading": "Daten werden geladen...",
+    "errorOccurred": "Beim Laden ist ein Fehler aufgetreten"
+  },
+  "Home": {
+    "title": "Willkommen bei CourseHub StudyTools!",
+    "subtitle1": "Lernen Sie intelligenter mit CourseHub StudyTools.",
+    "subtitle2": "Karteikarten, Notizen und KI – alles an einem Ort.",
+    "getStarted": "Loslegen"
+  },
+  "Courses": {
+    "title": "CourseHub StudyTools",
+    "loginRequired": "Bitte melden Sie sich an, um Kurse zu sehen.",
+    "loadFailed": "Kurse konnten nicht geladen werden",
+    "empty": "Sie haben noch keine Lernmaterialien. Fangen Sie jetzt an!",
+    "viewResource": "Ressource ansehen",
+    "backHome": "← Zurück zur Startseite"
+  },
+  "Course": {
+    "notFound": "CourseHub StudyTools-Ressource nicht gefunden",
+    "loginRequired": "Bitte melden Sie sich an, um diese Ressource zu sehen",
+    "loadFailed": "Ressource konnte nicht geladen werden",
+    "loading": "Ressource wird geladen...",
+    "materialNotFound": "Material nicht gefunden",
+    "backSearch": "Zurück zu StudyTools",
+    "backSearchArrow": "← Zurück zu StudyTools",
+    "noContent": "Kein Inhalt für diese Ressource verfügbar."
+  },
+  "Assistant": {
+    "title": "CourseHub StudyTools KI-Assistent",
+    "description": "Fügen Sie Ihre Notizen unten ein, und unsere KI erstellt eine prägnante Zusammenfassung und speichert sie in Ihrem Profil.",
+    "placeholder": "Fügen Sie hier Ihre Lernnotizen ein...",
+    "summarizing": "Zusammenfassen...",
+    "summarizeBtn": "Notizen zusammenfassen",
+    "aiSummary": "KI-Zusammenfassung",
+    "sessionHistory": "Sitzungsverlauf",
+    "hideHistory": "Verlauf ausblenden",
+    "showHistory": "Verlauf anzeigen"
+  }
+}

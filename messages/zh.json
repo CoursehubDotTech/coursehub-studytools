@@ -1,0 +1,46 @@
+{
+  "Common": {
+    "goodMorning": "早上好",
+    "goodAfternoon": "下午好",
+    "goodEvening": "晚上好",
+    "signedOut": "您目前已退出登录。",
+    "allRightsReserved": "版权所有。",
+    "loading": "正在加载您的内容...",
+    "errorOccurred": "加载时发生错误"
+  },
+  "Home": {
+    "title": "欢迎来到 CourseHub StudyTools！",
+    "subtitle1": "使用 CourseHub StudyTools 更聪明地学习。",
+    "subtitle2": "抽认卡、笔记和 AI — 集于一处。",
+    "getStarted": "开始使用"
+  },
+  "Courses": {
+    "title": "CourseHub StudyTools",
+    "loginRequired": "请登录以查看课程。",
+    "loadFailed": "无法加载课程",
+    "empty": "您还没有任何学习资料。现在就开始吧！",
+    "viewResource": "查看资源",
+    "backHome": "← 返回首页"
+  },
+  "Course": {
+    "notFound": "未找到 CourseHub StudyTools 资源",
+    "loginRequired": "请登录以查看此资源",
+    "loadFailed": "无法加载资源",
+    "loading": "正在加载您的资源...",
+    "materialNotFound": "未找到资料",
+    "backSearch": "返回 StudyTools",
+    "backSearchArrow": "← 返回 StudyTools",
+    "noContent": "此资源没有可用的内容。"
+  },
+  "Assistant": {
+    "title": "CourseHub StudyTools AI 助手",
+    "description": "在下方粘贴您的笔记，我们的 AI 将生成简洁的摘要并保存到您的个人资料中。",
+    "placeholder": "在此处粘贴您的学习笔记...",
+    "summarizing": "正在总结...",
+    "summarizeBtn": "总结笔记",
+    "aiSummary": "AI 摘要",
+    "sessionHistory": "会话历史",
+    "hideHistory": "隐藏历史",
+    "showHistory": "显示历史"
+  }
+}

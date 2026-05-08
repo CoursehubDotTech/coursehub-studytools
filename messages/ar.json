@@ -1,0 +1,46 @@
+{
+  "Common": {
+    "goodMorning": "صباح الخير",
+    "goodAfternoon": "طاب مساؤك",
+    "goodEvening": "مساء الخير",
+    "signedOut": "أنت غير مسجل الدخول حالياً.",
+    "allRightsReserved": "جميع الحقوق محفوظة.",
+    "loading": "جاري التحميل...",
+    "errorOccurred": "حدث خطأ أثناء التحميل"
+  },
+  "Home": {
+    "title": "مرحباً بك في CourseHub StudyTools!",
+    "subtitle1": "ادرس بذكاء أكبر مع CourseHub StudyTools.",
+    "subtitle2": "بطاقات تعليمية، ملاحظات، وذكاء اصطناعي — كل ذلك في مكان واحد.",
+    "getStarted": "ابدأ الآن"
+  },
+  "Courses": {
+    "title": "CourseHub StudyTools",
+    "loginRequired": "يرجى تسجيل الدخول لعرض الدورات.",
+    "loadFailed": "فشل تحميل الدورات",
+    "empty": "ليس لديك أي مواد دراسية بعد. ابدأ الآن!",
+    "viewResource": "عرض المورد",
+    "backHome": "← العودة إلى الصفحة الرئيسية"
+  },
+  "Course": {
+    "notFound": "لم يتم العثور على مورد CourseHub StudyTools",
+    "loginRequired": "يرجى تسجيل الدخول لعرض هذا المورد",
+    "loadFailed": "فشل تحميل المورد",
+    "loading": "جاري تحميل المورد...",
+    "materialNotFound": "المادة غير موجودة",
+    "backSearch": "العودة إلى StudyTools",
+    "backSearchArrow": "← العودة إلى StudyTools",
+    "noContent": "لا يوجد محتوى متاح لهذا المورد."
+  },
+  "Assistant": {
+    "title": "المساعد الذكي لـ CourseHub StudyTools",
+    "description": "الصق ملاحظاتك أدناه، وسيقوم الذكاء الاصطناعي بتوليد ملخص موجز وحفظه في ملفك الشخصي.",
+    "placeholder": "الصق ملاحظاتك الدراسية هنا...",
+    "summarizing": "جاري التلخيص...",
+    "summarizeBtn": "تلخيص الملاحظات",
+    "aiSummary": "ملخص الذكاء الاصطناعي",
+    "sessionHistory": "تاريخ الجلسة",
+    "hideHistory": "إخفاء التاريخ",
+    "showHistory": "عرض التاريخ"
+  }
+}

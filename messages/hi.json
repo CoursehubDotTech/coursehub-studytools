@@ -1,0 +1,46 @@
+{
+  "Common": {
+    "goodMorning": "सुप्रभात",
+    "goodAfternoon": "शुभ दोपहर",
+    "goodEvening": "शुभ संध्या",
+    "signedOut": "आप वर्तमान में साइन आउट हैं।",
+    "allRightsReserved": "सर्वाधिकार सुरक्षित।",
+    "loading": "आपका डेटा लोड हो रहा है...",
+    "errorOccurred": "लोड करते समय कोई त्रुटि हुई"
+  },
+  "Home": {
+    "title": "CourseHub StudyTools में आपका स्वागत है!",
+    "subtitle1": "CourseHub StudyTools के साथ बेहतर अध्ययन करें।",
+    "subtitle2": "फ्लैशकार्ड, नोट्स, और एआई — सब एक जगह पर।",
+    "getStarted": "शुरू करें"
+  },
+  "Courses": {
+    "title": "CourseHub StudyTools",
+    "loginRequired": "कृपया पाठ्यक्रम देखने के लिए लॉग इन करें।",
+    "loadFailed": "पाठ्यक्रम लोड करने में विफल",
+    "empty": "आपके पास अभी तक कोई अध्ययन सामग्री नहीं है। अभी शुरू करें!",
+    "viewResource": "संसाधन देखें",
+    "backHome": "← होमपेज पर वापस जाएं"
+  },
+  "Course": {
+    "notFound": "CourseHub StudyTools संसाधन नहीं मिला",
+    "loginRequired": "कृपया इस संसाधन को देखने के लिए लॉग इन करें",
+    "loadFailed": "संसाधन लोड करने में विफल",
+    "loading": "आपका संसाधन लोड हो रहा है...",
+    "materialNotFound": "सामग्री नहीं मिली",
+    "backSearch": "StudyTools पर वापस जाएं",
+    "backSearchArrow": "← StudyTools पर वापस जाएं",
+    "noContent": "इस संसाधन के लिए कोई सामग्री उपलब्ध नहीं है।"
+  },
+  "Assistant": {
+    "title": "CourseHub StudyTools एआई सहायक",
+    "description": "अपने नोट्स नीचे पेस्ट करें, और हमारा एआई एक संक्षिप्त सारांश उत्पन्न करेगा और इसे आपकी प्रोफ़ाइल में सहेजेगा।",
+    "placeholder": "अपने अध्ययन के नोट्स यहां पेस्ट करें...",
+    "summarizing": "सारांशित किया जा रहा है...",
+    "summarizeBtn": "नोट्स का सारांश लें",
+    "aiSummary": "एआई सारांश",
+    "sessionHistory": "सत्र इतिहास",
+    "hideHistory": "इतिहास छिपाएं",
+    "showHistory": "इतिहास दिखाएं"
+  }
+}

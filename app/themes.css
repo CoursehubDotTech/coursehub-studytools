@@ -1,0 +1,80 @@
+/* ============================================================
+   Base Theme Variable Definitions
+   These are defaults — overridden by JS via CSS variables.
+   ============================================================ */
+
+:root {
+    --bg: #ffffff;
+    --fg: #000000;
+    --fg-muted: #555555;
+
+    --accent: #6366f1;
+    --accent-hover: #4f46e5;
+
+    --card-bg: #f7f7f7;
+    --card-border: #e5e5e5;
+
+    --shadow: rgba(0, 0, 0, 0.1);
+
+    --code-bg: #f3f3f3;
+    --code-fg: #d6336c;
+
+    --input-bg: #ffffff;
+    --input-border: #d4d4d4;
+
+    --text-highlight: #ffeb3b;
+}
+
+/* ============================================================
+   Global Application
+   ============================================================ */
+
+html, body {
+    background: var(--bg);
+    color: var(--fg);
+}
+
+* {
+    background-color: inherit;
+    color: inherit;
+}
+
+/* Cards */
+.card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    box-shadow: 0 2px 8px var(--shadow);
+}
+
+/* Buttons */
+.btn-primary {
+    background: var(--accent);
+    color: white;
+}
+.btn-primary:hover {
+    background: var(--accent-hover);
+}
+
+/* Inputs */
+input, textarea {
+    background-color: var(--input-bg);
+    border: 1px solid var(--input-border);
+    color: var(--fg);
+}
+
+select {
+    background: var(--input-bg);
+    border: 1px solid var(--input-border);
+    color: var(--fg);
+}
+
+/* Code blocks */
+pre, code {
+    background-color: var(--code-bg);
+    color: var(--code-fg);
+}
+
+/*** Text highlights */
+.text-highlight {
+    background-color: var(--text-highlight);
+}

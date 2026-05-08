@@ -1,0 +1,46 @@
+{
+  "Common": {
+    "goodMorning": "Good morning",
+    "goodAfternoon": "Good afternoon",
+    "goodEvening": "Good evening",
+    "signedOut": "You are currently signed out.",
+    "allRightsReserved": "All rights reserved.",
+    "loading": "Getting your things...",
+    "errorOccurred": "An error occurred while loading"
+  },
+  "Home": {
+    "title": "Welcome to CourseHub StudyTools!",
+    "subtitle1": "Study smarter with CourseHub StudyTools.",
+    "subtitle2": "Flashcards, notes, and AI — all in one place.",
+    "getStarted": "Get Started"
+  },
+  "Courses": {
+    "title": "CourseHub StudyTools",
+    "loginRequired": "Please log in to view courses.",
+    "loadFailed": "Failed to load courses",
+    "empty": "You don't have any study materials yet. Get started now!",
+    "viewResource": "View Resource",
+    "backHome": "← Back to homepage"
+  },
+  "Course": {
+    "notFound": "CourseHub StudyTools resource not found",
+    "loginRequired": "Please log in to view this resource",
+    "loadFailed": "Failed to load resource",
+    "loading": "Loading your resource...",
+    "materialNotFound": "Material not found",
+    "backSearch": "Back to StudyTools",
+    "backSearchArrow": "← Back to StudyTools",
+    "noContent": "No content available for this resource."
+  },
+  "Assistant": {
+    "title": "CourseHub StudyTools AI Assistant",
+    "description": "Paste your notes below, and our AI will generate a concise summary and save it to your profile.",
+    "placeholder": "Paste your study notes here...",
+    "summarizing": "Summarizing...",
+    "summarizeBtn": "Summarize Notes",
+    "aiSummary": "AI Summary",
+    "sessionHistory": "Session History",
+    "hideHistory": "Hide History",
+    "showHistory": "Show History"
+  }
+}
