@@ -1,5 +1,4 @@
-"use client"
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 import { setRequestLocale } from 'next-intl/server';
 
 export default function TermsPage({ params }: { params: Promise<{ locale: string }> }) {
@@ -9,7 +8,7 @@ export default function TermsPage({ params }: { params: Promise<{ locale: string
 async function TermsContent({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  const t = useTranslations('Terms');
+  const t = await getTranslations('Terms');
 
   return (
     <div className="min-h-screen bg-background text-foreground">

@@ -1,5 +1,4 @@
-"use client"
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 import { setRequestLocale } from 'next-intl/server';
 
 export default function PrivacyPage({ params }: { params: Promise<{ locale: string }> }) {
@@ -9,7 +8,7 @@ export default function PrivacyPage({ params }: { params: Promise<{ locale: stri
 async function PrivacyContent({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  const t = useTranslations('Privacy');
+  const t = await getTranslations('Privacy');
 
   return (
     <div className="min-h-screen bg-background text-foreground">
