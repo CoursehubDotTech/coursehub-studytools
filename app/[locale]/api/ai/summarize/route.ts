@@ -16,7 +16,6 @@ export async function POST(req: Request) {
 
     // Call OpenRouter API with fallback models
     const models = [
-      "google/gemma-3-27b-it",
       "openai/gpt-oss-120b:free",
       "nvidia/nemotron-3-super-120b-a12b:free"
     ];

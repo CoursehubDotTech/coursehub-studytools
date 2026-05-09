@@ -20,16 +20,7 @@ model Course {
 }
 
 model AccData {
-  uid  String @id
-  data Json
-}
-
-model StudyNote {
-  id           String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
-  userId       String
-  originalText String
-  summaryText  String?
-  createdAt    DateTime @default(now())
-
-  @@map("study_notes")
+  uid        String @id
+  data       Json?
+  flashcards Json?
 }

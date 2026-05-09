@@ -12,7 +12,8 @@
     "title": "CourseHub StudyTools में आपका स्वागत है!",
     "subtitle1": "CourseHub StudyTools के साथ बेहतर अध्ययन करें।",
     "subtitle2": "फ्लैशकार्ड, नोट्स, और एआई — सब एक जगह पर।",
-    "getStarted": "शुरू करें"
+    "getStarted": "शुरू करें",
+    "flashcards": "फ्लैशकार्ड आज़माएं"
   },
   "Courses": {
     "title": "CourseHub StudyTools",
@@ -42,5 +43,39 @@
     "sessionHistory": "सत्र इतिहास",
     "hideHistory": "इतिहास छिपाएं",
     "showHistory": "इतिहास दिखाएं"
+  },
+  "Flashcards": {
+    "studyLab": "अध्ययन लैब",
+    "title": "फ्लैशकार्ड्स",
+    "description": "अपने नोट्स से डेक बनाएं, फिर प्रोग्रेस ट्रैकर के साथ एक-एक करके उन्हें पढ़ें।",
+    "makeNewDeck": "एक नया डेक बनाएं",
+    "makeNewDeckDesc": "नोट्स पेस्ट करें और एक नया सेट बनाएं।",
+    "decksCount": "{count} डेक",
+    "pastePlaceholder": "फ्लैशकार्ड्स बनाने के लिए अपने नोट्स यहां पेस्ट करें...",
+    "generating": "बन रहा है...",
+    "generateBtn": "फ्लैशकार्ड्स बनाएं",
+    "studyMode": "अध्ययन मोड",
+    "studyModeDesc": "उत्तर देखने के लिए कार्ड को पलटें।",
+    "shuffleOn": "शफ़ल चालू",
+    "shuffleOff": "शफ़ल बंद",
+    "generateToStart": "अध्ययन शुरू करने के लिए एक डेक बनाएं।",
+    "cardCounter": "कार्ड {current} से {total}",
+    "knownCounter": "{count} ज्ञात",
+    "question": "प्रश्न",
+    "tapToFlip": "पलटने के लिए टैप करें",
+    "answer": "उत्तर",
+    "tapToFlipBack": "वापस पलटने के लिए टैप करें",
+    "prevBtn": "पिछला",
+    "nextBtn": "अगला",
+    "gotItBtn": "समझ गया",
+    "againBtn": "फिर से",
+    "resetBtn": "रीसेट",
+    "deckLibrary": "डेक लाइब्रेरी",
+    "deckLibraryDesc": "अध्ययन या समीक्षा करने के लिए एक डेक चुनें।",
+    "noDecks": "अभी तक कोई फ्लैशकार्ड नहीं बनाए गए हैं।",
+    "cardsCount": "{count} कार्ड",
+    "noSourceNotes": "कोई स्रोत नोट्स सहेजे नहीं गए।",
+    "studying": "अध्ययन कर रहे हैं",
+    "studyThisDeck": "इस डेक का अध्ययन करें"
   }
 }

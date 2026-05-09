@@ -12,7 +12,8 @@
     "title": "欢迎来到 CourseHub StudyTools！",
     "subtitle1": "使用 CourseHub StudyTools 更聪明地学习。",
     "subtitle2": "抽认卡、笔记和 AI — 集于一处。",
-    "getStarted": "开始使用"
+    "getStarted": "开始使用",
+    "flashcards": "尝试抽认卡"
   },
   "Courses": {
     "title": "CourseHub StudyTools",
@@ -42,5 +43,39 @@
     "sessionHistory": "会话历史",
     "hideHistory": "隐藏历史",
     "showHistory": "显示历史"
+  },
+  "Flashcards": {
+    "studyLab": "学习实验室",
+    "title": "抽认卡",
+    "description": "从您的笔记生成卡组，然后每次翻转研究一张卡片并跟踪进度。",
+    "makeNewDeck": "创建一个新卡组",
+    "makeNewDeckDesc": "粘贴笔记并生成一个新集合。",
+    "decksCount": "{count} 个卡组",
+    "pastePlaceholder": "在此粘贴您的笔记以生成抽认卡...",
+    "generating": "正在生成...",
+    "generateBtn": "生成抽认卡",
+    "studyMode": "学习模式",
+    "studyModeDesc": "翻转卡片以显示答案。",
+    "shuffleOn": "开启洗牌",
+    "shuffleOff": "关闭洗牌",
+    "generateToStart": "生成一个卡组以开始学习。",
+    "cardCounter": "第 {current} 张，共 {total} 张",
+    "knownCounter": "已掌握 {count} 张",
+    "question": "问题",
+    "tapToFlip": "点击翻转",
+    "answer": "答案",
+    "tapToFlipBack": "点击翻回",
+    "prevBtn": "上一张",
+    "nextBtn": "下一张",
+    "gotItBtn": "掌握了",
+    "againBtn": "再来一次",
+    "resetBtn": "重置",
+    "deckLibrary": "卡组库",
+    "deckLibraryDesc": "选择一个卡组进行学习或复习。",
+    "noDecks": "尚未生成任何抽认卡。",
+    "cardsCount": "{count} 张卡片",
+    "noSourceNotes": "没有保存的源笔记。",
+    "studying": "学习中",
+    "studyThisDeck": "学习此卡组"
   }
 }

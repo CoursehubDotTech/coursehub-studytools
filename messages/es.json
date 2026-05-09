@@ -12,7 +12,8 @@
     "title": "¡Bienvenido a CourseHub StudyTools!",
     "subtitle1": "Estudia de forma más inteligente con CourseHub StudyTools.",
     "subtitle2": "Tarjetas, notas e IA — todo en un solo lugar.",
-    "getStarted": "Empezar"
+    "getStarted": "Empezar",
+    "flashcards": "Probar Tarjetas"
   },
   "Courses": {
     "title": "CourseHub StudyTools",
@@ -42,5 +43,39 @@
     "sessionHistory": "Historial de la sesión",
     "hideHistory": "Ocultar historial",
     "showHistory": "Mostrar historial"
+  },
+  "Flashcards": {
+    "studyLab": "Laboratorio de Estudio",
+    "title": "Tarjetas",
+    "description": "Genera mazos a partir de tus notas, y estúdialas una a una con seguimiento de progreso.",
+    "makeNewDeck": "Crear nuevo mazo",
+    "makeNewDeckDesc": "Pega tus notas y genera un nuevo conjunto.",
+    "decksCount": "{count} mazos",
+    "pastePlaceholder": "Pega tus notas aquí para generar tarjetas...",
+    "generating": "Generando...",
+    "generateBtn": "Generar tarjetas",
+    "studyMode": "Modo de estudio",
+    "studyModeDesc": "Gira la tarjeta para revelar la respuesta.",
+    "shuffleOn": "Mezcla activada",
+    "shuffleOff": "Mezcla desactivada",
+    "generateToStart": "Genera un mazo para empezar a estudiar.",
+    "cardCounter": "Tarjeta {current} de {total}",
+    "knownCounter": "{count} conocidas",
+    "question": "Pregunta",
+    "tapToFlip": "Toca para girar",
+    "answer": "Respuesta",
+    "tapToFlipBack": "Toca para volver a girar",
+    "prevBtn": "Anterior",
+    "nextBtn": "Siguiente",
+    "gotItBtn": "Entendido",
+    "againBtn": "De nuevo",
+    "resetBtn": "Reiniciar",
+    "deckLibrary": "Biblioteca de mazos",
+    "deckLibraryDesc": "Elige un mazo para estudiar o revisar.",
+    "noDecks": "Aún no se han generado tarjetas.",
+    "cardsCount": "{count} tarjetas",
+    "noSourceNotes": "No hay notas de origen guardadas.",
+    "studying": "Estudiando",
+    "studyThisDeck": "Estudiar este mazo"
   }
 }

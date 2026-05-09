@@ -12,7 +12,8 @@
     "title": "Welcome to CourseHub StudyTools!",
     "subtitle1": "Study smarter with CourseHub StudyTools.",
     "subtitle2": "Flashcards, notes, and AI — all in one place.",
-    "getStarted": "Get Started"
+    "getStarted": "Get Started",
+    "flashcards": "Try Flashcards"
   },
   "Courses": {
     "title": "CourseHub StudyTools",
@@ -42,5 +43,39 @@
     "sessionHistory": "Session History",
     "hideHistory": "Hide History",
     "showHistory": "Show History"
+  },
+  "Flashcards": {
+    "studyLab": "Study Lab",
+    "title": "Flashcards",
+    "description": "Generate decks from your notes, then study them one card at a time with a flip and progress tracker.",
+    "makeNewDeck": "Make a new deck",
+    "makeNewDeckDesc": "Paste notes and generate a fresh set.",
+    "decksCount": "{count} decks",
+    "pastePlaceholder": "Paste your notes here to generate flashcards...",
+    "generating": "Generating...",
+    "generateBtn": "Generate flashcards",
+    "studyMode": "Study mode",
+    "studyModeDesc": "Flip the card to reveal the answer.",
+    "shuffleOn": "Shuffle on",
+    "shuffleOff": "Shuffle off",
+    "generateToStart": "Generate a deck to start studying.",
+    "cardCounter": "Card {current} of {total}",
+    "knownCounter": "{count} known",
+    "question": "Question",
+    "tapToFlip": "Tap to flip",
+    "answer": "Answer",
+    "tapToFlipBack": "Tap to flip back",
+    "prevBtn": "Prev",
+    "nextBtn": "Next",
+    "gotItBtn": "Got it",
+    "againBtn": "Again",
+    "resetBtn": "Reset",
+    "deckLibrary": "Deck library",
+    "deckLibraryDesc": "Pick a deck to study or review.",
+    "noDecks": "No flashcards generated yet.",
+    "cardsCount": "{count} cards",
+    "noSourceNotes": "No source notes saved.",
+    "studying": "Studying",
+    "studyThisDeck": "Study this deck"
   }
 }

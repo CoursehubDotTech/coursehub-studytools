@@ -12,7 +12,8 @@
     "title": "Bienvenue sur CourseHub StudyTools!",
     "subtitle1": "Étudiez plus intelligemment avec CourseHub StudyTools.",
     "subtitle2": "Cartes mémoire, notes et IA — tout au même endroit.",
-    "getStarted": "Commencer"
+    "getStarted": "Commencer",
+    "flashcards": "Essayer les cartes mémoire"
   },
   "Courses": {
     "title": "CourseHub StudyTools",
@@ -42,5 +43,39 @@
     "sessionHistory": "Historique de session",
     "hideHistory": "Masquer l'historique",
     "showHistory": "Afficher l'historique"
+  },
+  "Flashcards": {
+    "studyLab": "Laboratoire d'étude",
+    "title": "Cartes mémoire",
+    "description": "Générez des jeux à partir de vos notes, puis étudiez-les carte par carte avec un suivi des progrès.",
+    "makeNewDeck": "Créer un nouveau jeu",
+    "makeNewDeckDesc": "Collez vos notes et générez un nouveau jeu.",
+    "decksCount": "{count} jeux",
+    "pastePlaceholder": "Collez vos notes ici pour générer des cartes...",
+    "generating": "Génération...",
+    "generateBtn": "Générer des cartes mémoire",
+    "studyMode": "Mode étude",
+    "studyModeDesc": "Retournez la carte pour voir la réponse.",
+    "shuffleOn": "Mélange activé",
+    "shuffleOff": "Mélange désactivé",
+    "generateToStart": "Générez un jeu pour commencer à étudier.",
+    "cardCounter": "Carte {current} sur {total}",
+    "knownCounter": "{count} connues",
+    "question": "Question",
+    "tapToFlip": "Appuyez pour retourner",
+    "answer": "Réponse",
+    "tapToFlipBack": "Appuyez pour faire un retour",
+    "prevBtn": "Précédent",
+    "nextBtn": "Suivant",
+    "gotItBtn": "Compris",
+    "againBtn": "Encore",
+    "resetBtn": "Réinitialiser",
+    "deckLibrary": "Bibliothèque de jeux",
+    "deckLibraryDesc": "Choisissez un jeu à étudier ou à réviser.",
+    "noDecks": "Aucune carte n'a encore été générée.",
+    "cardsCount": "{count} cartes",
+    "noSourceNotes": "Aucune note source enregistrée.",
+    "studying": "En cours d'étude",
+    "studyThisDeck": "Étudier ce jeu"
   }
 }

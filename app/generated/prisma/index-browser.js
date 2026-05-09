@@ -131,15 +131,8 @@ exports.Prisma.CourseScalarFieldEnum = {
 
 exports.Prisma.AccDataScalarFieldEnum = {
   uid: 'uid',
-  data: 'data'
-};
-
-exports.Prisma.StudyNoteScalarFieldEnum = {
-  id: 'id',
-  userId: 'userId',
-  originalText: 'originalText',
-  summaryText: 'summaryText',
-  createdAt: 'createdAt'
+  data: 'data',
+  flashcards: 'flashcards'
 };
 
 exports.Prisma.SortOrder = {
@@ -147,7 +140,8 @@ exports.Prisma.SortOrder = {
   desc: 'desc'
 };
 
-exports.Prisma.JsonNullValueInput = {
+exports.Prisma.NullableJsonNullValueInput = {
+  DbNull: Prisma.DbNull,
   JsonNull: Prisma.JsonNull
 };
 
@@ -170,8 +164,7 @@ exports.Prisma.JsonNullValueFilter = {
 
 exports.Prisma.ModelName = {
   Course: 'Course',
-  AccData: 'AccData',
-  StudyNote: 'StudyNote'
+  AccData: 'AccData'
 };
 
 /**

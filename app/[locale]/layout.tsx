@@ -49,8 +49,8 @@ export default async function RootLayout({
   const t = await getTranslations({locale, namespace: 'Common'});
 
   return (
-    <html lang={locale}>
-      <body className={`${geistSans.variable} ${geistMono.variable} antialiased ${locale === 'ar' ? 'rtl' : 'ltr'} bg-white dark:bg-zinc-900 text-gray-900 dark:text-gray-100 min-h-screen flex flex-col`}>
+    <html lang={locale} dir={locale === 'ar' ? 'rtl' : 'ltr'}>
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased bg-white dark:bg-zinc-900 text-gray-900 dark:text-gray-100 min-h-screen flex flex-col`}>
         <NextIntlClientProvider messages={messages}>
           <ClerkProvider>
             <ThemeProvider> 

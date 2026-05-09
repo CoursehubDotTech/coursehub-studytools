@@ -12,7 +12,8 @@
     "title": "مرحباً بك في CourseHub StudyTools!",
     "subtitle1": "ادرس بذكاء أكبر مع CourseHub StudyTools.",
     "subtitle2": "بطاقات تعليمية، ملاحظات، وذكاء اصطناعي — كل ذلك في مكان واحد.",
-    "getStarted": "ابدأ الآن"
+    "getStarted": "ابدأ الآن",
+    "flashcards": "جرّب البطاقات التعليمية"
   },
   "Courses": {
     "title": "CourseHub StudyTools",
@@ -42,5 +43,39 @@
     "sessionHistory": "تاريخ الجلسة",
     "hideHistory": "إخفاء التاريخ",
     "showHistory": "عرض التاريخ"
+  },
+  "Flashcards": {
+    "studyLab": "مختبر الدراسة",
+    "title": "البطاقات التعليمية",
+    "description": "أنشئ مجموعات من ملاحظاتك، ثم ادرسها بطاقة ببطاقة مع أداة تتبع التقدم.",
+    "makeNewDeck": "إنشاء مجموعة جديدة",
+    "makeNewDeckDesc": "الصق الملاحظات وأنشئ مجموعة جديدة.",
+    "decksCount": "{count} مجموعات",
+    "pastePlaceholder": "الصق ملاحظاتك هنا لإنشاء بطاقات تعليمية...",
+    "generating": "جاري الإنشاء...",
+    "generateBtn": "إنشاء بطاقات تعليمية",
+    "studyMode": "وضع الدراسة",
+    "studyModeDesc": "اقلب البطاقة للكشف عن الإجابة.",
+    "shuffleOn": "تفعيل الخلط",
+    "shuffleOff": "إلغاء الخلط",
+    "generateToStart": "أنشئ مجموعة للبدء في الدراسة.",
+    "cardCounter": "البطاقة {current} من {total}",
+    "knownCounter": "{count} محفوظة",
+    "question": "سؤال",
+    "tapToFlip": "انقر للقلب",
+    "answer": "إجابة",
+    "tapToFlipBack": "انقر للقلب مرة أخرى",
+    "prevBtn": "السابق",
+    "nextBtn": "التالي",
+    "gotItBtn": "فهمت",
+    "againBtn": "مرة أخرى",
+    "resetBtn": "إعادة تعيين",
+    "deckLibrary": "مكتبة المجموعات",
+    "deckLibraryDesc": "اختر مجموعة لدراستها أو مراجعتها.",
+    "noDecks": "لم يتم إنشاء أي بطاقات تعليمية حتى الآن.",
+    "cardsCount": "{count} بطاقات",
+    "noSourceNotes": "لا توجد ملاحظات مصدر محفوظة.",
+    "studying": "قيد الدراسة",
+    "studyThisDeck": "ادرس هذه المجموعة"
   }
 }

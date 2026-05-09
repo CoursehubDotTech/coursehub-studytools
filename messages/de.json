@@ -12,7 +12,8 @@
     "title": "Willkommen bei CourseHub StudyTools!",
     "subtitle1": "Lernen Sie intelligenter mit CourseHub StudyTools.",
     "subtitle2": "Karteikarten, Notizen und KI – alles an einem Ort.",
-    "getStarted": "Loslegen"
+    "getStarted": "Loslegen",
+    "flashcards": "Karteikarten ausprobieren"
   },
   "Courses": {
     "title": "CourseHub StudyTools",
@@ -42,5 +43,39 @@
     "sessionHistory": "Sitzungsverlauf",
     "hideHistory": "Verlauf ausblenden",
     "showHistory": "Verlauf anzeigen"
+  },
+  "Flashcards": {
+    "studyLab": "Lernlabor",
+    "title": "Karteikarten",
+    "description": "Erstellen Sie Decks aus Ihren Notizen und lernen Sie diese Karte für Karte mit einem Fortschrittstracker.",
+    "makeNewDeck": "Neues Deck erstellen",
+    "makeNewDeckDesc": "Fügen Sie Notizen ein, um ein neues Set zu generieren.",
+    "decksCount": "{count} Decks",
+    "pastePlaceholder": "Fügen Sie Ihre Notizen hier ein, um Karteikarten zu generieren...",
+    "generating": "Wird generiert...",
+    "generateBtn": "Karteikarten generieren",
+    "studyMode": "Lernmodus",
+    "studyModeDesc": "Drehen Sie die Karte um, um die Antwort zu sehen.",
+    "shuffleOn": "Mischen an",
+    "shuffleOff": "Mischen aus",
+    "generateToStart": "Generieren Sie ein Deck, um mit dem Lernen zu beginnen.",
+    "cardCounter": "Karte {current} von {total}",
+    "knownCounter": "{count} gewusst",
+    "question": "Frage",
+    "tapToFlip": "Tippen zum Umdrehen",
+    "answer": "Antwort",
+    "tapToFlipBack": "Tippen zum Zurückdrehen",
+    "prevBtn": "Zurück",
+    "nextBtn": "Weiter",
+    "gotItBtn": "Verstanden",
+    "againBtn": "Nochmal",
+    "resetBtn": "Zurücksetzen",
+    "deckLibrary": "Deck-Bibliothek",
+    "deckLibraryDesc": "Wählen Sie ein Deck zum Lernen oder Wiederholen.",
+    "noDecks": "Noch keine Karteikarten generiert.",
+    "cardsCount": "{count} Karten",
+    "noSourceNotes": "Keine Quellnotizen gespeichert.",
+    "studying": "Lerne gerade",
+    "studyThisDeck": "Dieses Deck lernen"
   }
 }
